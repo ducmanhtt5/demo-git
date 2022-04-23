@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-file tdc demo
-=======
-test bug
->>>>>>> origin/main
+file o main
