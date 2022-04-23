@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file o main
+=======
+file nay chi o brand test
+>>>>>>> test
